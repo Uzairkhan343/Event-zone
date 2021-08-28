@@ -8,14 +8,14 @@ const Header=()=>{
     <div className={"main-header"}>
       {/* header strts from here */}
       <div className={"image-width"}>
-        <img src={Image2}></img>
+        <img src={Image2} alt=""></img>
       </div>
       {/* navigations */}
       <div className={"ul-flex"}>
         <ul>
           <Link to="Home">
             <li className={"hover-bottom-active"}>
-              <a href={""}>Home</a>
+              <p >Home</p>
             </li>
           </Link>
           <Link to="Next">

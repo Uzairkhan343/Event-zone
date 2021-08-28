@@ -28,7 +28,7 @@ const Section = () => {
           <div className={"paragraph-adjust"}>
             <p>The best advice, conversations, stories, and insights from</p>
             <p className={"re-pd"}>
-              {" "}
+         
               your fellow event-goers, curated for your success.
             </p>
           </div>

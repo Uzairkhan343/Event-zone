@@ -6,7 +6,7 @@ const Footter = () => {
       <div className="main-flex">
         <div className="main-logo-text">
           <div>
-            <img src={image17}></img>
+            <img src={image17} alt=""></img>
           </div>
           {/* text */}
           <div>

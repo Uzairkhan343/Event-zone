@@ -5,7 +5,7 @@ const Header = () => {
       <div className={'main-head'}>
         <div className={'icon-text-flex'}>
           <div className={'icon-img-width'}>
-            <img src={image5}></img>
+            <img src={image5} alt=""></img>
           </div>
           <div>
             <p>Napa Valley Women’s Half & 5K</p>
