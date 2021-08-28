@@ -24,7 +24,7 @@ const Footer = (props) => {
                   <a href={""}>About</a>
                 </li>
                 {
-            data.map((single,index)=><div>
+            data?.map((single,index)=><div>
               <p>{single.id}</p>
               <p>{single.name}</p>
             </div>

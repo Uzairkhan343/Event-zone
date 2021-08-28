@@ -38,7 +38,7 @@ const Bgimage = () => {
                   <button type="button">Contact Us</button>
                 </div>
                 <div className='anchor-main'>
-                  <a href="">Privacy Policy</a>
+                  <a >Privacy Policy</a>
                 </div>
               </div>
             </div>
